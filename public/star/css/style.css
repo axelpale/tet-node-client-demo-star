@@ -1,0 +1,30 @@
+/* taaspace */
+html, body, #myCanvas {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-size: 16px;
+  background: #222;
+  font-family: Impact, Charcoal, sans-serif;
+  color: white;
+}
+
+#ui {
+  position: absolute;
+  left: 1em;
+  top: 1em;
+}
+
+#fullscreen-switch {
+}
+
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* /taaspace */
