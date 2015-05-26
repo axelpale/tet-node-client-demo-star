@@ -1,0 +1,20 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+
+pids
+logs
+results
+
+### OS X Related
+.DS_Store
+# Thumbnails
+._*
+
+### Node related
+npm-debug.log
+node_modules
