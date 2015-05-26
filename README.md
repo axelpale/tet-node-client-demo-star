@@ -1,4 +1,4 @@
-# eyetribe-client-demo-star
+# tet-node-client-demo-star
 
 ![Screenshot](screenshot.png)
 
